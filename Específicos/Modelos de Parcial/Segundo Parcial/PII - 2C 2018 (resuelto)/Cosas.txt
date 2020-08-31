@@ -1,0 +1,47 @@
+- /!\ Para listar los apellidos, usar una lista doblemente enlazada, insertamos ordenado, y recorremos
+dependiendo de cómo queremos listar. /!\
+
+O también podemos usar una lista simple y recorrerla recursivamente?
+
+--
+
+Para armar un arbol desde un archivo ordenado, tengo que
+buscar el punto medio y crearlo balanceado. (es lo mismo que hicimos en clase) mitad de arriba, mitad de abajo, etc
+
+--
+
+buscar mayor no clave?
+
+--
+
+Ejercicio de cadena
+
+c1 "mundo"
+c2 "hola " (con espacio al final)
+
+str_cat_inverso
+
+Todas las funciones de cadena retornan la cadena modificada.
+
+puts(str_cat_i(c1, c2)) ---> "hola mundo"
+puts(c1) ---> "hola mundo"
+
+c1 debe tener el espacio suficiente para la concatenacion
+
+muevo el contenido de c1 segun la long de c2
+me paro en el \0 y lo muevo 5 lugares, me muevo atras, muevo 5, etc
+
+todo lo que tenga que ver con cadenas, asumo que el espacio está
+
+--
+
+Ejercicio de matrices
+
+hallar la maxima matriz dado un i,j?
+
+(ver foto) 
+
+definir los limites
+
+
+

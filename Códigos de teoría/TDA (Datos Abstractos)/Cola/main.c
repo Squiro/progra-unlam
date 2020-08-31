@@ -1,0 +1,6 @@
+#include "colaest.h"
+
+int main()
+{
+    return 0;
+}
